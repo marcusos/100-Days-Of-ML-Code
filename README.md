@@ -1,1 +1,2 @@
 # 100-Days-Of-ML-Code
+100 Days of Machine Learning Coding as proposed by [Siraj Rava](https://www.youtube.com/c/sirajraval), That means coding and/or studying machine learning for at least an hour everyday for the next 100 days. I will do Inphograpichs inspired by [Avik Jain](https://github.com/Avik-Jain), but my inovation will do the explanation and the Inphograpichs in portuguese language(my native language) because of the lack of good ML content in portuguese.
